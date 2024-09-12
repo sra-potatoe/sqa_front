@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "title": "yokce",
+      "image": "https://media.vogue.mx/photos/5c06fe336d624e5173a1a972/2:3/w_1920,c_limit/beneficios_del_te_matcha_1185.jpg",
+      "id": 2,
+      "likes": 0
+    },
+    {
+      "title": "Product 3",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2023/3/13/cafe.jpg?itok=mM3C4RBT",
+      "id": 3,
+      "likes": 0
+    },
+    {
+      "title": "defrgt",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2023/3/13/cafe.jpg?itok=mM3C4RBT",
+      "id": 9840,
+      "likes": 0
+    },
+    {
+      "title": "yoko",
+      "image": "https://www.lostiempos.com/sites/default/files/styles/noticia_detalle/public/media_imagen/2023/3/13/cafe.jpg?itok=mM3C4RBT",
+      "id": "72ea"
+    }
+  ]
+}
